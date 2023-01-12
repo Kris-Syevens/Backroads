@@ -1,7 +1,3 @@
-# Backroads App
-
-[Working Application - Deployed](https://)
-
 <h1 align="center"> Backroads Tour Guide Website </h1>
 
 ## Links
